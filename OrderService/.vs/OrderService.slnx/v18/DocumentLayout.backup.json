@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F2419A-7C18-ED54-9634-23F41072AFF2}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F2419A-7C18-ED54-9634-23F41072AFF2}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F2419A-7C18-ED54-9634-23F41072AFF2}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.tests\\orderservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03F2419A-7C18-ED54-9634-23F41072AFF2}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\orderservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\interfaces\\icostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\interfaces\\icostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\interfaces\\iwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\interfaces\\iwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\svena\\onedrive\\desktop\\orderservice\\orderservice\\orderservice.domain\\models\\orderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1CF7D3-2001-7883-BFB5-93854AEEC3BF}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\models\\orderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.Tests",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj",
+              "RelativeDocumentMoniker": "OrderService.Tests\\OrderService.Tests.csproj",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj",
+              "RelativeToolTip": "OrderService.Tests\\OrderService.Tests.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-06T23:55:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Tests\\OrderServiceTests.cs*",
+              "RelativeToolTip": "OrderService.Tests\\OrderServiceTests.cs*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:47:30.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderService.Domain\\Services\\OrderService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:46:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "OrderService.Domain\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:44:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICostCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\ICostCalculator.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Interfaces\\ICostCalculator.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\ICostCalculator.cs",
+              "RelativeToolTip": "OrderService.Domain\\Interfaces\\ICostCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:44:51.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\IWarehouseService.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Interfaces\\IWarehouseService.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Interfaces\\IWarehouseService.cs",
+              "RelativeToolTip": "OrderService.Domain\\Interfaces\\IWarehouseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:44:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderResult.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\OrderResult.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Models\\OrderResult.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\OrderResult.cs",
+              "RelativeToolTip": "OrderService.Domain\\Models\\OrderResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:42:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderService.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:42:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\svena\\OneDrive\\Desktop\\OrderService\\OrderService\\OrderService.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T23:42:23.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
